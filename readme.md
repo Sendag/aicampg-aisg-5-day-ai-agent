@@ -1,7 +1,7 @@
 # AI Agents 5 day study 
 
 ## Plan  
-
+Google docs from discord- https://docs.google.com/document/d/e/2PACX-1vTkajey208fMutPynoKg7AE-RJsSpWgCQCFKgdzxGfPF0qjZwLXLARJCGpEqovqtly1xrWLKzAoG7qF/pub
 ### Day 0: Foundations of AI Agents  
 - Self-paced learning  
 
